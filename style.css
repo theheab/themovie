@@ -208,6 +208,7 @@ body {
     .body .main-contain{
       width: 100%;
       background-color: rgb(255, 255, 255);
+      height: 330vh;
   }
   .main-contain .slide {
     background-color: none;
@@ -292,6 +293,7 @@ body {
     .body .main-contain{
         width: 100%;
         background-color: rgb(255, 255, 255);
+        height: 400vh;
     }
     .main-contain .slide {
       background-color: none;
@@ -376,6 +378,8 @@ body {
     }
     .body .main-contain {
       width: 100%;
+      background-color: aqua;
+      height: 480vh;
     }
     .main-contain .slide {
       background-color: none;
