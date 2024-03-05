@@ -378,7 +378,7 @@ body {
     }
     .body .main-contain {
       width: 100%;
-      background-color: aqua;
+      background-color: rgb(255, 255, 255);
       height: 480vh;
     }
     .main-contain .slide {
