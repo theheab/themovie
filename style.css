@@ -300,7 +300,7 @@ body {
     }
     .main-contain .box-video-contain2 {
       background-color: rgb(255, 255, 255) ;
-      height: 165vh;
+      height: 300vh;
     }
 
 }
@@ -412,7 +412,7 @@ body {
     }
     .main-contain .box-video-contain2 {
       background-color: rgb(255, 255, 255) ;
-      height: 202vh;
+      height: 300vh;
     }
 }
 
@@ -445,7 +445,7 @@ body {
     .body .main-contain {
       width: 100%;
       background-color: rgb(255, 255, 255);
-      height: 650vh;
+      height: 700vh;
     }
     .main-contain .slide {
       background-color: none;
@@ -525,7 +525,7 @@ body {
     }
     .main-contain .box-video-contain2 {
       background-color: rgb(255, 255, 255) ;
-      height: 280vh;
+      height: 423vh;
     }
     
 }
